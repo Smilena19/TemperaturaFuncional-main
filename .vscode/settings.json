@@ -1,0 +1,8 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "TemperaturaFuncional-main/.vscode/DateChooser (1).jar",
+        "TemperaturaFuncional-main/.vscode/jcommon-1.0.24 (1).jar",
+        "TemperaturaFuncional-main/.vscode/jfreechart-1.5.4 (1).jar"
+    ]
+}
